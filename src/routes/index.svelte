@@ -2,6 +2,7 @@
 	import Divider from '../components/Divider.svelte';
 	import Activities from '../components/Activities.svelte';
 	import Money from '../components/Money.svelte';
+	import Socials from '../components/Socials.svelte';
 </script>
 
 <img src="/images/band.png" alt="band" class="object-cover w-full h-[540px]" />
@@ -13,6 +14,8 @@
 	Free for veterans & emergency service personnel <br />
 	$10 for everyone else
 </p>
+
+<Socials />
 
 <Divider />
 
@@ -27,4 +30,8 @@
 </div>
 
 <h3 class="mytext text-4xl">To those who serve and protect:</h3>
-<h3 class="mytext text-5xl font-bold mt-3 mb-[8.5rem]">Thank you.</h3>
+<h3 class="mytext text-5xl font-bold mt-3">Thank you.</h3>
+
+<div class="mb-10">
+	<Socials />
+</div>
