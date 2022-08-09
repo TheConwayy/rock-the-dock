@@ -14,13 +14,9 @@
 	$10 for everyone else
 </p>
 
-<div class="flex items-center justify-center mt-[83px]">
-	<button class="font-Inter text-4xl font-bold text-black bg-white py-8 px-14 rounded-lg"
-		>More Info</button
-	>
-</div>
+<Divider />
 
-<div class="mt-[120px]">
+<div>
 	<Activities />
 	<Divider />
 </div>
