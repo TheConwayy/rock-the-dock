@@ -25,3 +25,6 @@
 	<Money />
 	<Divider />
 </div>
+
+<h3 class="mytext text-4xl">To those who serve and protect:</h3>
+<h3 class="mytext text-5xl font-bold mt-3 mb-[8.5rem]">Thank you.</h3>
