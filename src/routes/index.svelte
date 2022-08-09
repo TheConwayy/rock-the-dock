@@ -1,6 +1,7 @@
 <script>
 	import Divider from '../components/Divider.svelte';
 	import Activities from '../components/Activities.svelte';
+    import Money from '../components/Money.svelte';
 </script>
 
 <img src="/images/band.png" alt="band" class="object-cover w-full h-[540px]" />
@@ -22,4 +23,9 @@
 <div class="mt-[120px]">
 	<Activities />
 	<Divider />
+</div>
+
+<div>
+    <Money />
+    <Divider />
 </div>
