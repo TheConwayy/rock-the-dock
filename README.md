@@ -1,3 +1,3 @@
 # Rock The Dock website
 
-*Official repo for the RTD website for the Harrison Chamber of Commerce*
+_Official repo for the RTD website for the Harrison Chamber of Commerce_
