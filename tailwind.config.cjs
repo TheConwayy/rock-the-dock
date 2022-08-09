@@ -3,9 +3,6 @@ module.exports = {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
 		extend: {
-			spacing: {
-				540: '540px'
-			},
 			fontFamily: {
 				Inter: ['Inter', 'sans-serif']
 			}
