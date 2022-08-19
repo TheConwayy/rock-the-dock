@@ -12,10 +12,32 @@
 	<script src="https://kit.fontawesome.com/b6dbfc57a8.js" crossorigin="anonymous"></script>
 </svelte:head>
 
-<ul class="mytext text-2xl list-none mt-10">
+<ul>
 	{#each platforms as platform}
-		<li class="mx-2 inline">
+		<li>
 			<a href={platform.url}><i class="fa-brands fa-{platform.icon}" /></a>
 		</li>
 	{/each}
 </ul>
+
+<style>
+	ul {
+		font-size: 1.5rem;
+		line-height: 2rem;
+		list-style-type: none;
+		margin-top: 5rem;
+		text-align: center;
+		padding: 0;
+		color: #f2f2f2;
+	}
+
+	li {
+		display: inline;
+		padding: 5px;
+	}
+
+	li a {
+		color: #f2f2f2;
+		font-size: clamp(2rem, 3vw, 3rem);
+	}
+</style>
