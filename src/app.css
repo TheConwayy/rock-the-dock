@@ -22,6 +22,11 @@ img {
 	height: 540px;
 }
 
+iframe {
+	width: 100%;
+	height: clamp(22rem, 80vh, 50rem);
+}
+
 .date {
 	font-size: clamp(3rem, 5vw, 7rem);
 	font-weight: bold;

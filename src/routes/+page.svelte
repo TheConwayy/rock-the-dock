@@ -24,6 +24,8 @@
 <div>
 	<Activities />
 	<Divider />
+	<iframe src="https://www.youtube.com/embed/mrO6kHouK9I" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<Divider />
 </div>
 
 <div>
@@ -31,8 +33,8 @@
 	<Divider />
 </div>
 
-<h3 class="mytext time">To those who serve and protect:</h3>
-<h3 class="mytext text-5xl font-bold mt-3">Thank you.</h3>
+<h3 class="mytext head">To those who serve and protect:</h3>
+<h3 class="mytext head">Thank you.</h3>
 
 <div class="mb-10">
 	<Socials />
