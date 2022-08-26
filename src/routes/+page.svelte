@@ -5,6 +5,7 @@
 	import Activities from '../components/Activities.svelte';
 	import Money from '../components/Money.svelte';
 	import Socials from '../components/Socials.svelte';
+	import Button from '../components/Button.svelte';
 </script>
 
 <img src="/images/band.png" alt="band" />
@@ -16,6 +17,11 @@
 	Free for veterans & emergency service personnel <br />
 	$10 for everyone else
 </p>
+
+<div class="centerButton">
+	<Button name="Get your tickets!" link="https://form.jotform.com/222358527525055" />
+</div>
+
 
 <Socials />
 
@@ -39,3 +45,16 @@
 <div class="mb-10">
 	<Socials />
 </div>
+
+
+<style>
+
+	.centerButton {
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+	}
+
+</style>
