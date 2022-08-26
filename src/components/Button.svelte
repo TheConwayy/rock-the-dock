@@ -3,7 +3,7 @@
     export let link;
 </script>
 
-<a href={link}><button class="mt-10">{name}</button></a>
+<a href={link} target="_blank"><button>{name}</button></a>
 
 <style>
 

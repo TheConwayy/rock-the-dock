@@ -21,7 +21,10 @@
 <div class="centerButton">
 	<Button name="Get your tickets!" link="https://form.jotform.com/222358527525055" />
 </div>
-
+<div class="empty"></div>
+<div class="centerButton">
+	<Button name="Dowload Poster" link="https://daf2f229-7c38-4638-a12f-2442ff647e3d.usrfiles.com/ugd/daf2f2_c9314f70133148f4b793fc837ac44cdd.pdf" />
+</div>
 
 <Socials />
 
@@ -54,7 +57,12 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		margin: 0;
 
+	}
+
+	.empty {
+		margin: 20px;
 	}
 
 </style>
