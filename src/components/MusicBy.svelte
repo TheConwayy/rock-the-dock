@@ -12,7 +12,7 @@
 <ul class="mytext p">
     {#each info as info}
         <li>
-            ⮞ {info.name} from {info.time} PM <em>(<a href={info.page} target="_blank">their page</a>)</em>
+            ⮞ <strong>{info.name}</strong> from <strong>{info.time} PM</strong> <em>(<a href={info.page} target="_blank">link</a>)</em>
         </li>
     {/each}
 </ul>

@@ -12,11 +12,11 @@
 
 <h1 class="mytext head"><u>Activities</u></h1>
 
-<p class="mytext p mt-10">
+<p class="mytext head mt-10" style="padding-left: 60px; padding-right: 60px">
 	<strong>Join us for live music on the water</strong> and:
 </p>
 
-<ul class="mytext p mt-10">
+<ul class="mytext time mt-10">
 	{#each activities as activity}
 		<li>⮞ {activity}</li>
 	{/each}
