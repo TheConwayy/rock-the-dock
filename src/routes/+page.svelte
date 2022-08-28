@@ -3,7 +3,6 @@
 
 	import Divider from '../components/Divider.svelte';
 	import Activities from '../components/Activities.svelte';
-	import Money from '../components/Money.svelte';
 	import Socials from '../components/Socials.svelte';
 	import Button from '../components/Button.svelte';
 	import MusicBy from '../components/MusicBy.svelte';
@@ -67,11 +66,6 @@
 		loading="lazy"
 		referrerpolicy="no-referrer-when-downgrade"
 	/>
-	<Divider />
-</div>
-
-<div>
-	<Money />
 	<Divider />
 </div>
 
