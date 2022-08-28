@@ -6,6 +6,7 @@
 	import Money from '../components/Money.svelte';
 	import Socials from '../components/Socials.svelte';
 	import Button from '../components/Button.svelte';
+	import MusicBy from '../components/MusicBy.svelte';
 </script>
 
 <img src="/images/band.png" alt="band" />
@@ -13,12 +14,14 @@
 <h1 class="mytext date mt-10">September 10th, 2022</h1>
 
 <p class="mytext time mt-10">
-	Harrison, MI <br />
-	Saxtons Landing <br />
-	170 N Lake St
+	<span style="font-size:50px;font-weight:bold;">Harrison, MI</span><br />
+	Saxtons Landing - Power Docks <br />
+	170 N Lake St.
 </p>
 
 <h3 class="mytext time mt-10">Doors open @ 1PM - Event ends at 10PM</h3>
+
+<MusicBy />
 
 <p class="mytext p mt-10">
 	Free for veterans & emergency service personnel <br />

@@ -15,6 +15,7 @@
 		font-weight: bold;
 		font-size: clamp(1rem, 2vw, 2rem);
 		text-align: center;
+        cursor: pointer;
 
 		padding: 10px;
 	}

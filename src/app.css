@@ -6,6 +6,10 @@ body {
 	background-color: #212121;
 }
 
+a {
+	color: #f2f2f2;
+}
+
 .mytext {
 	font-family: 'Inter', sans-serif;
 	color: #f2f2f2;
@@ -37,7 +41,7 @@ iframe {
 }
 
 .p {
-	font-size: clamp(1.2rem, 1.5vw, 2rem);
+	font-size: clamp(1.2rem, 1.5vw, 2.2rem);
 }
 
 .head {
