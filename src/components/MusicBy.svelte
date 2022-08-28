@@ -7,7 +7,9 @@
 	import '../app.css';
 </script>
 
-<h1 class="mytext time mt-10 ul" style="text-decoration: underline;">Live music of the 70s & 80s provided by:</h1>
+<h1 class="mytext time mt-10 ul" style="text-decoration: underline;">
+	Live music of the 70s & 80s provided by:
+</h1>
 
 <ul class="mytext p">
 	{#each info as info}
