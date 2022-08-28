@@ -21,9 +21,12 @@
 <div class="centerButton">
 	<Button name="Get your tickets!" link="https://form.jotform.com/222358527525055" />
 </div>
-<div class="empty"></div>
+<div class="empty" />
 <div class="centerButton">
-	<Button name="Dowload Poster" link="https://daf2f229-7c38-4638-a12f-2442ff647e3d.usrfiles.com/ugd/daf2f2_c9314f70133148f4b793fc837ac44cdd.pdf" />
+	<Button
+		name="Dowload Poster"
+		link="https://daf2f229-7c38-4638-a12f-2442ff647e3d.usrfiles.com/ugd/daf2f2_c9314f70133148f4b793fc837ac44cdd.pdf"
+	/>
 </div>
 
 <Socials />
@@ -33,7 +36,13 @@
 <div>
 	<Activities />
 	<Divider />
-	<iframe src="https://www.youtube.com/embed/mrO6kHouK9I" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe
+		src="https://www.youtube.com/embed/mrO6kHouK9I"
+		title="YouTube video player"
+		frameborder="0"
+		allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+		allowfullscreen
+	/>
 	<Divider />
 </div>
 
@@ -49,20 +58,15 @@
 	<Socials />
 </div>
 
-
 <style>
-
 	.centerButton {
-
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		margin: 0;
-
 	}
 
 	.empty {
 		margin: 20px;
 	}
-
 </style>
