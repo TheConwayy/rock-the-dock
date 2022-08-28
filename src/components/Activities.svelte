@@ -13,8 +13,7 @@
 <h1 class="mytext head"><u>Activities</u></h1>
 
 <p class="mytext p mt-10">
-	Not only will we be having <strong>live music on the water</strong>, we will also be hosting
-	events such as:
+	<strong>Join us for live music on the water</strong> and:
 </p>
 
 <ul class="mytext p mt-10">

@@ -11,7 +11,14 @@
 <img src="/images/band.png" alt="band" />
 
 <h1 class="mytext date mt-10">September 10th, 2022</h1>
-<h3 class="mytext time mt-10">Doors open @ 1PM - Event ends at 9PM</h3>
+
+<p class="mytext time mt-10">
+	Harrison, MI <br />
+	Saxtons Landing <br />
+	170 N Lake St
+</p>
+
+<h3 class="mytext time mt-10">Doors open @ 1PM - Event ends at 10PM</h3>
 
 <p class="mytext p mt-10">
 	Free for veterans & emergency service personnel <br />
