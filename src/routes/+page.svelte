@@ -25,7 +25,7 @@
 
 <p class="mytext p mt-10">
 	$10 addmission <br />
-	<strong>FREE</strong> for Veterans & Emergency Service Personnel 
+	<strong>FREE</strong> for Veterans & Emergency Service Personnel
 </p>
 
 <div class="centerButton">
@@ -58,7 +58,15 @@
 
 <div>
 	<!-- svelte-ignore a11y-missing-attribute -->
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5906.078839360199!2d-84.80225748522317!3d44.02196901895556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8821dce6d3876443%3A0x2376337073f4bdfb!2sN%20Lake%20St%2C%20Harrison%2C%20MI%2048625!5e0!3m2!1sen!2sus!4v1661716546315!5m2!1sen!2sus" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<iframe
+		src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5906.078839360199!2d-84.80225748522317!3d44.02196901895556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8821dce6d3876443%3A0x2376337073f4bdfb!2sN%20Lake%20St%2C%20Harrison%2C%20MI%2048625!5e0!3m2!1sen!2sus!4v1661716546315!5m2!1sen!2sus"
+		width="600"
+		height="400"
+		style="border:0;"
+		allowfullscreen=""
+		loading="lazy"
+		referrerpolicy="no-referrer-when-downgrade"
+	/>
 	<Divider />
 </div>
 
