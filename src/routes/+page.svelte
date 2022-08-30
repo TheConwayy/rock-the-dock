@@ -23,7 +23,7 @@
 <MusicBy />
 
 <p class="mytext p mt-10">
-	$10 addmission <br />
+	$10 admission <br />
 	<strong>FREE</strong> for Veterans & Emergency Service Personnel
 </p>
 
